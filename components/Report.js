@@ -10,8 +10,8 @@ export default function Report() {
         <h2>National Geospatial-Intelligence Agency National Reconnaissance Office</h2>
         <p align="right">17 JUN 21</p>
         <p>
-          SUBJECT: JTF NRO "ALF" INTERROGATION SOP DTD 10 JUN 21<br/><br/>
-          1. On 14 May 21, prior the "Decision Making" brief with the CG, you provided me a copy of JTF NRO ALF INTERROGATION SOP dated 10 Jun 10 and asked me to review it and provide you my option.
+          SUBJECT: JTF NRO "VISITOR" INTERROGATION SOP DTD 10 JUN 21<br/><br/>
+          1. On 14 May 21, prior the "Decision Making" brief with the CG, you provided me a copy of JTF NRO VISITOR INTERROGATION SOP dated 10 Jun 10 and asked me to review it and provide you my option.
           <span className="redacted">{" ".repeat(100)}</span>. However, I do want to reiterate CITR-G's general position on this matter. As outlined in our memorandum for JTF NRO dated 15 May 21, CITR-G 
           <span className="redacted">{" ".repeat(80)}</span>. While the subject SOP clearly does not apply to LEA (CITF and FBI) tererrogators (applicable only, to military and civilian interrogators assigned to JTF-NRO), LEA in conjunection with FBI's Behavioral Analysis Unit want to provide you the following general observations on 
           <span className="redacted">{" ".repeat(150)}</span>.
