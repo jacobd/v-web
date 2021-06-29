@@ -104,3 +104,35 @@ img {
     white-space: break-spaces;
   }
 }
+
+
+
+.controlscreen {
+  display: block;
+  margin: 0 auto 50px;
+  background: #aaa18b;
+  width: 800px;
+  height: 640px;
+  border-radius: 20px;
+  padding: 50px;
+  .bezel {
+    background: #222;
+    width: 100%;
+    height: 100%;
+    border-radius: 30%;
+    padding: 70px 90px;
+    canvas {
+      background: #73abe7;
+      background: url(../public/static-ani.gif);
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+.bigc, .bigc canvas {
+  position: absolute;
+  width: 900px !important;
+  height: 900px !important;
+
+}
